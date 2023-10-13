@@ -1,0 +1,15 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.top-container{
+    background:#5dc5c1;
+    color:#FFFFFF;
+    padding:0px;
+}
+
+.bottom-container{
+    background-color:#5dc5c1;
+    color:#FFFFFF;
+}
